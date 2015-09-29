@@ -4,7 +4,7 @@
 #
 Name     : rubygem-guard-minitest
 Version  : 2.4.4
-Release  : 3
+Release  : 4
 URL      : https://rubygems.org/downloads/guard-minitest-2.4.4.gem
 Source0  : https://rubygems.org/downloads/guard-minitest-2.4.4.gem
 Summary  : No detailed summary available
